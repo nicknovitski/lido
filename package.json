@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/nicknovitski/lido/issues"
   },
-  "homepage": "https://github.com/nicknovitski/lido#readme"
+  "homepage": "https://github.com/nicknovitski/lido#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1.48"
+  }
 }
