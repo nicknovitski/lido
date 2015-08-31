@@ -1,0 +1,27 @@
+{
+  "name": "lido",
+  "version": "1.0.0",
+  "description": "simple ebs pooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicknovitski/lido.git"
+  },
+  "keywords": [
+    "aws",
+    "ebs",
+    "ec2",
+    "pooling",
+    "state",
+    "volume"
+  ],
+  "author": "Nick Novitski",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nicknovitski/lido/issues"
+  },
+  "homepage": "https://github.com/nicknovitski/lido#readme"
+}
